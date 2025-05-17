@@ -22,7 +22,7 @@ export default function App() {
 
     return (
         <div className="min-h-screen bg-gray-100 p-4">
-            <h1 className="text-3xl font-bold text-center mb-6 text-green-600">Mini E-Commerce</h1>
+            <h1 className="text-3xl font-bold text-center mb-6 text-green-600">Mini E-Commerce Platform</h1>
 
             <div className="flex justify-center mb-4">
                 <button
